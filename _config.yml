@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shano Søndergaard Andersen - HakuFlugel"
 title_separator          : "-"
 name                     : &name "Shano Søndergaard Andersen"
-description              : &description "personal description"
+description              : &description "Bachelor degree in Computer Science"
 url                      : https://HakuFlugel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HakuFlugel/HakuFlugel.github.io"
@@ -80,34 +80,34 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Shano Søndergaard Andersen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Bachelor degree in Computer Science at Aalborg University"
+  location         : "Aalborg, Danmark"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : hiddenfades@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/shano.andersen
   foursquare       :
-  github           : "academicpages"
+  github           : "HakuFlugel"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : https://www.linkedin.com/in/shano-s%C3%B8ndergaard-andersen/
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
