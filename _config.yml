@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Shano Søndergaard Andersen - HakuFlugel"
 title_separator          : "-"
 name                     : &name "Shano Søndergaard Andersen"
@@ -83,7 +83,7 @@ author:
   name             : "Shano Søndergaard Andersen"
   avatar           : "profile.png"
   bio              : "Bachelor degree in Computer Science at Aalborg University"
-  location         : "Aalborg, Danmark"
+  location         : "Aalborg, Denmark"
   employer         :
   googlescholar    : 
   email            : hiddenfades@gmail.com
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/shano-s%C3%B8ndergaard-andersen/
+  linkedin         : shano-s%C3%B8ndergaard-andersen
   orcid            : 
   pinterest        :
   soundcloud       :
