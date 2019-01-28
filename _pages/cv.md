@@ -32,4 +32,4 @@ Skills
 Past Projects
 ======
 
-fuck [link](https://hakuflugel.github.io/files/cv/ "Github")
+fuck [link](https://hakuflugel.github.io/files/CV.pdf "Github")
