@@ -9,27 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Computer Science, Aalborg University, 2019
-
-Work experience
-======
-* Spring 2012 : Lifeguard (7 years)
-	* Form & Fritid, Nørre Nebel
-	
-  
-Skills
-======
-* C
-* C#
-* Python
-* OS
-  * Windows
-  * Linux
-
-
-Past Projects
-======
-
-fuck [link](https://hakuflugel.github.io/files/CV.pdf "Github")
+[Click here to open CV](https://hakuflugel.github.io/files/CV.pdf "CV")
